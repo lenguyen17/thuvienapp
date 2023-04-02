@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="school-dashboard1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/school-dashboard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

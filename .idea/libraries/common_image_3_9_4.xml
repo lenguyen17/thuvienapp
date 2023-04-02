@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="common-image-3.9.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/com.raven.lib/common-image-3.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com.raven.lib/javax.mail-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com.raven.lib/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com.raven.lib/mysql-connector-java-8.0.29-tidb-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com.raven.lib/protobuf-java-3.19.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com.raven.lib/table-custom.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
